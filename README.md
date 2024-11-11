@@ -1,6 +1,6 @@
 # Microsoft ISAMM Club
 
-![Microsoft ISAMM Club Banner]([https://isamm-microsoft-club.tn/banner.png](https://www.facebook.com/photo/?fbid=1057592559699559&set=a.469104165215071)) <!-- Replace with an actual banner image link if available -->
+![Microsoft ISAMM Club Banner](https://www.facebook.com/photo/?fbid=1057592559699559&set=a.469104165215071) <!-- Replace with an actual banner image link if available -->
 
 *Location:* Manouba, Tunisia  
 *Founded:* 2013   
