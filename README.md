@@ -43,6 +43,7 @@ No specific profile is required to join—any student eager to share their tech 
 
 ### Social Media  
 - [Instagram](https://www.instagram.com/isamm_microsoft_club)
+- [Linkedin](https://www.linkedin.com/company/isamm-microsoft-club/?fbclid=IwZXh0bgNhZW0CMTEAAR3VvkxvISzdZmtX8d3YUx2MQxD4KYa63elRewp9-5_WS68Ju8hbf-dvXtY_aem_8KwhuaVBRioYyuF-uGq1wQ)
 
 ---
 
